@@ -1,5 +1,6 @@
 ## POI-WiFi
-## Project character
+## Project Character
+--------------------
 ### Obiettivo:
 -Sviluppare un'applicazione che consenta al'utente di visitare città, l'applicazione dovrà sostituire le classiche guide turistiche.
 ### Deliverable:
