@@ -4,7 +4,7 @@
 -Sviluppare un'applicazione che consenta al'utente di visitare città, l'applicazione dovrà sostituire le classiche guide turistiche.
 ### Deliverable:
 -Le foto dei luoghi visitabili, le informazioni delle mete turistiche e la strutturazione della'applicazione.
-### Milestone
+### Milestone:
 -Applicazione funzionante, raggruppamento di tutte le foto, server.
 ### Tempistica:
 -L'inizio del progetto avverrà il 21/04/21 e durerà fino al 15/05/21.
