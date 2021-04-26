@@ -1,6 +1,6 @@
 ## POI-WiFi
+
 ## Project Character
---------------------
 ### Obiettivo:
 -Sviluppare un'applicazione che consenta al'utente di visitare città, l'applicazione dovrà sostituire le classiche guide turistiche.
 ### Deliverable:
@@ -15,7 +15,6 @@
 Macchine fotografiche, computer, server. 
 ### Risorse umane:
 -Fotografi, WEB developer, WEB designer e staff di supporto (organizzatori).
-
 
 
 ## RBS:
