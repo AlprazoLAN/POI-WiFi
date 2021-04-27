@@ -2,7 +2,7 @@
 
 ## Project Character
 ### Obiettivo:
--Sviluppare un'applicazione che consenta al'utente di visitare città, l'applicazione dovrà sostituire le classiche guide turistiche.
+-Sviluppare un'applicazione e la rispettiva rete che consenta al'utente di visitare città, l'applicazione dovrà sostituire le classiche guide turistiche.
 ### Deliverable:
 -Le foto dei luoghi visitabili, le informazioni delle mete turistiche e la strutturazione della'applicazione.
 ### Milestone:
